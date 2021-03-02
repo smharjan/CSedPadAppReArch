@@ -1,0 +1,77 @@
+
+ 1. Setting Resources required for the project.
+   The resource required for project such as images, questions script, etc are kept in seperate folder name as "DTNew".
+   The image are kept inside project own foler in path "csedpad\web\images\tasks"
+   Alternatively, this "DTNew" also has these resources in "DTNew\Tasks\demo\images"
+   Task script are loaded from "DTNew\Tasks\demo.
+   
+   First of all, copy the folder name "DTNew" in your system. Then, changes are required in following files to access this resources corretcly.
+   
+	a. dtconfig
+	   path: csedpad/WEB-INF/dtconfig
+	   dt.localroot=D:/DTNew  #make change to point the resources in your system
+
+	b. glassfish-web.xml
+	   path: csedpaddApp/WEB-INF/glassfish-web.xml
+	   Make changes in following line to path in your system
+	 
+		 <sun-web-app>
+			<property name="alternatedocroot_1" value="from=/FCI/Images/* dir=D:/DTNew/Images/Tests"/>
+			<property name="alternatedocroot_2" value="from=/Images/Tasks/* dir=:/DTNew"/>
+		  </sun-web-app>
+ 
+ 
+	 c. log4jconfigl.xml
+	    path: inside dt.config package
+		#make change to point the resources in your system
+	    <param name="File" value="D:\\workspace\\csedpad\\log\\csedpad.log" />
+
+	  d. STDialogueManager.java
+		 path: inside dt.dialog package
+		 String dialogPolicyFilePath = "D:\\csedpad\\web\\WEB-INF\\dt_dialog_policy.xml"; 
+	   
+	   e. XTreamTest.java
+		 path: inside dt.entities.xml package
+		 #make change to point the resources in your system
+		 String outputFile = "D:\\csedpad\\src\\java\\dt\\entities\\xml\\xml-test.xml"
+   
+   
+ 2. Setting Database
+	databse name: Csedpad
+	usrname: deeptutor
+	password: spring2013
+	
+	First, copy the database in your system.
+	Then, configure project to point the copied database. 
+	Finally, make following in following lines as required
+	
+	At hibernate.cfg.xml file, make changes to follwoing line to point to proper database and credentials.
+	<property name="hibernate.connection.url">jdbc:derby://localhost:1527/Csedpad</property>
+    <property name="hibernate.connection.username">deeptutor</property>
+    <property name="hibernate.connection.password">spring2013</property>
+	
+	
+	
+	
+	
+	
+ 3. Using Authroing tool 
+
+	URL: http://deeptutor2.memphis.edu/DeeptutorApp/admin
+
+
+	Old authoring tool Credential info:
+	UserName- dtadmin
+	Password- dtauthor310
+
+	URL: unknown
+	New authoring tool Credential info:
+	UserName- dtadmin
+	Password- Fall2015
+	 
+ 
+ 
+ 
+ 
+   
+   
