@@ -1,0 +1,35 @@
+ALTER TABLE APP.STUDENT ADD PRETEST VARCHAR(10)
+ALTER TABLE APP.STUDENT ADD POSTTEST VARCHAR(10)
+ALTER TABLE APP.STUDENT ADD DTMODE VARCHAR(30)
+
+CREATE TABLE "APP"."COUNTER" (
+"C1" integer,
+"C2" integer)
+
+--------------------------------------------------------------------------------------------------------						   
+create table App.Student (givenId varchar(20) primary key, password varchar(50), hasAcceptedTermsAndConditions int, isSpecialStudent int, wait4woz int, dtstate varchar(10));
+create table App.Demographics (givenId varchar(20) primary key, gender varchar(1), ethnicity varchar(10), school varchar(65), age int, major varchar(50), education varchar(10), gpa varchar(10), priorCourses varchar(100), currentCourses varchar(100), familiarAreas varchar(5));
+create table App.Evaluation (givenId varchar(20) not null, evaluationId varchar(10) not null, questionId varchar(10) not null, contextId varchar(10), answer varchar(10), explanation varchar(500), primary key (givenId, evaluationId, questionId));
+create table App.LearningModel (givenId varchar(20), completedTasks varchar(100), currentTask varchar(10));
+
+create table App.TODOItems (todoId int primary key, creator varchar(20), assignee varchar(20), text varchar(500), response varchar(500), datecreated timestamp, dateclosed timestamp); 
+--------------------------------------------------------------------------------------------------------
+------------// alter table App.Student drop column isvalidstudent
+------------// alter table App.Student add column dtstate varchar(10)
+						   
+drop table App.Student;
+drop table App.Demographics;
+drop table App.Evaluation;
+drop table App.LearningModel;
+--------------------------------------------------------------------------------------------------------						   
+
+update student set password='school'
+
+select * from STUDENT where GIVENID='199'
+
+insert into APP.Student (givenId, firstName, lastName, age) values ('t91948','Darrell','Barnes',0)
+insert into APP.Student (givenId, firstName, lastName, age) values ('t12155','Faunne','Brow',0)
+insert into APP.Student (givenId, firstName, lastName, age) values ('t45894','Jenny','Levi',0)
+insert into APP.Student (givenId, firstName, lastName, age) values ('t84571','Wayne','Mullins',0)
+insert into APP.Student (givenId, firstName, lastName, age) values ('t96412','Patricia','Phillips',0)
+

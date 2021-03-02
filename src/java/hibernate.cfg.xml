@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.dialect">org.hibernate.dialect.DerbyDialect</property>
+        <property name="hibernate.connection.driver_class">org.apache.derby.jdbc.ClientDriver</property>
+        <!-- user has to create the db himself -->
+        <property name="hibernate.connection.url">jdbc:derby://localhost:1527/Csedpad</property>
+        <property name="hibernate.connection.username">deeptutor</property>
+        <property name="hibernate.connection.password">spring2013</property>
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.query.factory_class">org.hibernate.hql.classic.ClassicQueryTranslatorFactory</property>
+        <property name="hibernate.current_session_context_class">thread</property>
+        <property name="hibernate.hbm2ddl.auto">validate</property>
+        <!-- BEWARE of loosing all data !!!!!.. the following <create>
+        property, removes the tables and re-creates -->
+        <!--<property name="hibernate.hbm2ddl.auto">create</property>-->
+        <mapping class="dt.entities.database.Student"/>
+        <mapping class="dt.entities.database.Evaluation"/>
+        <mapping class="dt.entities.database.Demographics"/>
+    </session-factory>
+</hibernate-configuration>

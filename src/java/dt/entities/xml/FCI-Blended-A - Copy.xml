@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This document was created with Syntext Serna Free. -->
+<FCI>
+  <Context cid="1">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="1">
+      <questionpic src="" />
+      <text>1. Two metal balls are the same size but one weighs twice as much as the other. The balls are dropped from the roof of a single story building at the same instant of time. The time it takes the balls to reach the ground below will be:</text>
+      <choices>
+        <choice id="A">(A)  about half as long for the heavier ball as for the lighter one.</choice>
+        <choice id="B">(B)  about half as long for the lighter ball as for the heavier one.</choice>
+        <choice id="C">(C)  about the same for both balls.</choice>
+        <choice id="D">(D)  considerably less for the heavier ball, but not necessarily half as long.</choice>
+        <choice id="E">(E)  considerably less for the lighter ball, but not necessarily half as long.
+</choice>
+      </choices>
+      <answer>c</answer>
+    </question>
+    <question id="2">
+      <questionpic src="" />
+      <text>2.  The two metal balls of the previous problem roll off a horizontal table with the same speed.In this situation:</text>
+      <choices>
+        <choice id="A">(A)  both balls hit the floor at approximately the same horizontal distance from the base of the table.</choice>
+        <choice id="B">(B)  the heavier ball hits the floor at about half the horizontal distance from the base of the table than does the lighter ball.</choice>
+        <choice id="C">(C)  the lighter ball hits the floor at about half the horizontal distance from the base of the table than does the heavier ball.</choice>
+        <choice id="D">(D)  the heavier ball hits the floor considerably closer to the base of the table than the lighter ball, but not necessarily at half the horizontal distance.</choice>
+        <choice id="E">(E)  the lighter ball hits the floor considerably closer to the base of the table than the heavier ball, but not necessarily at half the horizontal distance.</choice>
+      </choices>
+      <answer>a</answer>
+    </question>
+  </Context>
+  <Context cid="2">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="3">
+      <questionpic src="" />
+      <text>3.  A potted plant falling from a patio roof on the top of a single story building:</text>
+      <choices>
+        <choice id="A">(A)  reaches a maximum speed quite soon after release and then falls at a constant speed thereafter.</choice>
+        <choice id="B">(B)  speeds up as it falls because the gravitational attraction gets considerably stronger as the plant gets closer to the earth.</choice>
+        <choice id="C">(C)  speeds up because of an almost constant force of gravity acting on it.</choice>
+        <choice id="D">(D)  falls because of the natural tendency of all objects to rest on the surface of the earth.</choice>
+        <choice id="E">(E)  falls because of the combined effects of the force of gravity pushing it downward and the force of the air pushing it downward.</choice>
+      </choices>
+      <answer>c</answer>
+    </question>
+  </Context>
+    <Context cid="3">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="4">
+      <questionpic src="" />
+      <text>4.  Imagine a head-on collision between a very full shopping cart and an empty cart. Both carts are moving very quickly. During the collision,</text>
+      <choices>
+        <choice id="A">(A)  the full cart exerts a greater amount of force on the empty cart than the empty cart exerts on the full cart.</choice>
+        <choice id="B">(B)  the empty cart exerts a greater amount of force on the full cart than the full cart exerts on the empty cart.</choice>
+        <choice id="C">(C)  neither exerts a force on the other, the empty cart gets smashed simply because it gets in the way of the full cart.</choice>
+        <choice id="D">(D)  the full cart exerts a force on the empty cart but the empty cart doesn't exert a force on the full cart.</choice>
+        <choice id="E">(E)  the full cart exerts the same amount of force on the empty cart as the empty cart exerts on the full cart.</choice>
+      </choices>
+      <answer>e</answer>
+    </question>
+  </Context>
+  <Context cid="4">
+    <contextpicture src="pics/fcirv95.pr5.CONTEXT-IMAGE.png" />
+    <contextdescription> USE THE STATEMENT AND FIGURE BELOW TO ANSWER THE NEXT TWO QUESTIONS (5 and 6). #NEW_LINE#The accompanying figure shows a frictionless channel in the shape of a segment of a circle with center at "O". The channel has been anchored to a frictionless horizontal table top. You are looking down at the table. Forces exerted by the air are negligible. A ball is shot at high speed into the channel at "p" and exits at "r." </contextdescription>
+    <question id="5">
+      <questionpic src="" />
+      <text>5. Consider the following distinct forces: #NEW_LINE##SPACE# #SPACE#1) A downward force of gravity. #NEW_LINE##SPACE# #SPACE#2) A force exerted by the channel pointing from q to O. #NEW_LINE##SPACE# #SPACE#3) A force in the direction of motion. #NEW_LINE##SPACE# #SPACE#4) A force pointing from O to q. #NEW_LINE##SPACE# #SPACE#Which of the above forces is (are) acting on the ball when it is within the frictionless channel at position "q"?
+	</text>
+      <choices>
+        <choice id="A">(A) 1 only.</choice>
+        <choice id="B">(B) 1 and 2. </choice>
+        <choice id="C">(C) 1 and 3. </choice>
+        <choice id="D">(D) 1, 2, and 3. </choice>
+        <choice id="E">(E) 1, 3, and 4. </choice>
+      </choices>
+      <answer>b</answer>
+    </question>
+    <question id="6">
+      <questionpic src="pics/fcirv95.pr6.png" />
+      <text>6. Which path in the figure at right would the ball  most  closely  follow  after  it exits the channel at "r" and moves across the frictionless table top? 
+		</text>
+      <choices>
+        <choice id="A">(A)</choice>
+        <choice id="B">(B)</choice>
+        <choice id="C">(C)</choice>
+        <choice id="D">(D)</choice>
+        <choice id="E">(E)</choice>
+      </choices>
+      <answer>b</answer>
+    </question>
+  </Context>  
+  <Context cid="5">
+    <contextpicture src="pics/famctxt.pr7.CONTEXT-IMAGE.png" />
+    <contextdescription></contextdescription>
+    <question id="7">
+      <questionpic src="pics/famctxt.pr7.png" />
+      <text>7 .  A heavy medallion attached to a long string of beads is swung in a circular path in a horizontal plane, as illustrated in the diagram below. At the point indicated in the diagram, the string suddenly breaks at the medallion.
+If these events were observed from directly above, indicate the path of the medallion after the string breaks.</text>
+      <choices>
+        <choice id="A">(A)</choice>
+        <choice id="B">(B)</choice>
+        <choice id="C">(C)</choice>
+        <choice id="D">(D)</choice>
+        <choice id="E">(E)</choice>
+      </choices>
+      <answer>b</answer>
+    </question>
+  </Context>
+  <Context cid="6">
+    <contextpicture src="pics/fcirv95.pr8.CONTEXT-IMAGE.png" />
+    <contextdescription>USE THE STATEMENT AND FIGURE BELOW TO ANSWER THE NEXT FOUR QUESTIONS    (8  through  11).
+The figure depicts a hockey puck sliding with constant speed vo in a straight line from point "a" to point "b" on a frictionless horizontal surface. Forces exerted by the air are negligible. You are looking down on the puck. When the puck reaches point "b," it receives a swift horizontal kick in the direction of the heavy print arrow. Had the puck been at rest at point "b," then the kick would have set the puck in horizontal motion with a speed vk in the direction of the kick.</contextdescription>
+    <question id="8">
+      <questionpic src="pics/fcirv95.pr8.png" />
+      <text>8.  Which of the paths below would the puck most closely follow after receiving the kick ?</text>
+      <choices>
+        <choice id="A">(A)</choice>
+        <choice id="B">(B)</choice>
+        <choice id="C">(C)</choice>
+        <choice id="D">(D)</choice>
+        <choice id="E">(E)</choice>
+      </choices>
+      <answer>b</answer>
+    </question>
+    <question id="9">
+      <questionpic src="" />
+      <text>9.  The speed of the puck just after it receives the kick is:</text>
+      <choices>
+        <choice id="A">(A)  equal to the speed "vo" it had before it received the kick.</choice>
+        <choice id="B">(B)  equal to the speed "vk" resulting from the kick and independent of the speed "vo".</choice>
+        <choice id="C">(C)  equal to the arithmetic sum of the speeds "vo" and "vk".</choice>
+        <choice id="D">(D)  smaller than either of the speeds "vo" or "vk".</choice>
+        <choice id="E">(E)  greater than either of the speeds "vo" or "vk", but less than the arithmetic sum of these two speeds.</choice>
+      </choices>
+      <answer>e</answer>
+    </question>
+    <question id="10">
+      <questionpic src="" />
+      <text>10.  Along the frictionless path you have chosen in question 8, the speed of the puck after receiving the kick:</text>
+      <choices>
+        <choice id="A">(A)  is constant.</choice>
+        <choice id="B">(B)  continuously increases.</choice>
+        <choice id="C">(C)  continuously decreases.</choice>
+        <choice id="D">(D)  increases for a while and decreases thereafter.</choice>
+        <choice id="E">(E)  is constant for a while and decreases thereafter.</choice>
+      </choices>
+      <answer>a</answer>
+    </question>
+    <question id="11">
+      <questionpic src="" />
+      <text>11.  Along the frictionless path you have chosen in question 8, the main force(s) acting on the puck after receiving the kick is (are):</text>
+      <choices>
+        <choice id="A">(A)  a downward force of gravity.</choice>
+        <choice id="B">(B)  a downward force of gravity, and a horizontal force in the direction of motion.</choice>
+        <choice id="C">(C)  a downward force of gravity, an upward force exerted by the surface, and a horizontal force in the direction of motion.</choice>
+        <choice id="D">(D)  a downward force of gravity and an upward force exerted by the surface.</choice>
+        <choice id="E">(E)  none. (No forces act on the puck.)</choice>
+      </choices>
+      <answer>d</answer>
+    </question>
+  </Context>
+  <Context cid="7">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="12">
+      <questionpic src="pics/famctxt.pr12.png" />
+      <text>12.  A fastball is thrown horizontally by a major league all-star baseball pitcher as hard as he can from the top of a cliff as shown in the figure below. Which of the paths would the baseball most closely follow?</text>
+      <choices>
+        <choice id="A">(A)</choice>
+        <choice id="B">(B)</choice>
+        <choice id="C">(C)</choice>
+        <choice id="D">(D)</choice>
+        <choice id="E">(E)</choice>
+      </choices>
+      <answer>b</answer>
+    </question>
+  </Context>
+  <Context cid="8">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="13">
+      <questionpic src="" />
+      <text>13.  A boy throws a steel ball straight up. Consider the motion of the ball only after it has left the boy's hand but before it touches the ground, and assume that forces exerted by the air are negligible. For these conditions, the force(s) acting on the ball is (are):</text>
+      <choices>
+        <choice id="A">(A)  a downward force of gravity along with a steadily decreasing upward force.</choice>
+        <choice id="B">(B)  a steadily decreasing upward force from the moment it leaves the boy's hand until it reaches its highest point; on the way down there is a steadily increasing downward force of gravity as the object gets closer to the earth.</choice>
+        <choice id="C">(C)  an almost constant downward force of gravity along with an upward force that steadily decreases until the ball reaches its highest point; on the way down there is only a constant downward force of gravity.</choice>
+        <choice id="D">(D)  an almost constant downward force of gravity only.</choice>
+        <choice id="E">(E)  none of the above. The ball falls back to ground because of its natural tendency to rest on the surface of the earth.</choice>
+      </choices>
+      <answer>d</answer>
+    </question>
+  </Context>
+  <Context cid="9">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="14">
+      <questionpic src="pics/famctxt.pr14.png" />
+      <text>14.  A speeding train is crossing a bridge when a crate falls off the side.  As observed by a person standing on the ground and viewing the train as in the figure below, which path would the crate most closely follow after leaving the train?</text>
+      <choices>
+        <choice id="A">(A)</choice>
+        <choice id="B">(B)</choice>
+        <choice id="C">(C)</choice>
+        <choice id="D">(D)</choice>
+        <choice id="E">(E)</choice>
+      </choices>
+      <answer>d</answer>
+    </question>
+  </Context>
+  <Context cid="10">
+    <contextpicture src="pics/fcirv95.pr15.CONTEXT-IMAGE.png" />
+    <contextdescription>USE THE STATEMENT AND FIGURE BELOW TO ANSWER THE NEXT TWO QUESTIONS  (15  and  16).
+A large truck breaks down out on the road and receives a push back into town by a small compact car as shown in the figure below.</contextdescription>
+    <question id="15">
+      <questionpic src="" />
+      <text>15.  While the car, still pushing the truck, is speeding up to get up to cruising speed:</text>
+      <choices>
+        <choice id="A">(A)  the amount of force with which the car pushes on the truck is equal to that with which the truck pushes back on the car.</choice>
+        <choice id="B">(B)  the amount of force with which the car pushes on the truck is smaller than that with which the truck pushes back on the car.</choice>
+        <choice id="C">(C)  the amount of force with which the car pushes on the truck is greater than that with which the truck pushes back on the car.</choice>
+        <choice id="D">(D)  the car's engine is running so the car pushes against the truck, but the truck's engine is not running so the truck cannot push back against the car. The truck is pushed forward simply because it is in the way of the car.</choice>
+        <choice id="E">(E)  neither the car nor the truck exert any force on the other. The truck is pushed forward simply because it is in the way of the car.</choice>
+      </choices>
+      <answer>a</answer>
+    </question>
+    <question id="16">
+      <questionpic src="" />
+      <text>16.  After the car reaches the constant cruising speed at which its driver wishes to push the truck:</text>
+      <choices>
+        <choice id="A">(A)  the amount of force with which the car pushes on the truck is equal to that with which the truck pushes back on the car.</choice>
+        <choice id="B">(B)  the amount of force with which the car pushes on the truck is smaller than that with which the truck pushes back on the car.</choice>
+        <choice id="C">(C)  the amount of force with which the car pushes on the truck is greater than that with which the truck pushes back on the car.</choice>
+        <choice id="D">(D)  the car's engine is running so the car pushes against the truck, but the truck's engine is not running so the truck cannot push back against the car. The truck is pushed forward simply because it is in the way of the car.</choice>
+        <choice id="E">(E)  neither the car nor the truck exert any force on the other. The truck is pushed forward simply because it is in the way of the car.</choice>
+      </choices>
+      <answer>a</answer>
+    </question>
+  </Context>
+  <Context cid="11">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="17">
+      <questionpic src="pics/famctxt.pr17.png" />
+      <text>17.  An elevator is being lifted up an elevator shaft at a constant speed by a steel cable as shown in the figure below. All frictional effects are negligible. In this situation, forces on the elevator are such that:</text>
+      <choices>
+        <choice id="A">(A)  the upward force by the cable is greater than the downward force of gravity.</choice>
+        <choice id="B">(B)  the upward force by the cable is equal to the downward force of gravity.</choice>
+        <choice id="C">(C)  the upward force by the cable is smaller than the downward force of gravity.</choice>
+        <choice id="D">(D)  the upward force by the cable is greater than the sum of the downward force of gravity and a downward force due to the air.</choice>
+        <choice id="E">(E)  none of the above. (The elevator goes up because the cable is being shortened, not because an upward force is exerted on the elevator by the cable).</choice>
+      </choices>
+      <answer>b</answer>
+    </question>
+  </Context>
+  <Context cid="12">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="18">
+      <questionpic src="pics/famctxt.pr18.png" />
+      <text>18.  The figure below shows a girl swinging on a swing, starting at a point higher than point A.#NEW_LINE##SPACE# #SPACE#
+Consider the following distinct forces:#NEW_LINE##SPACE# #SPACE#
+1 .  A downward force of gravity.#NEW_LINE##SPACE# #SPACE#
+2 .  A force exerted by the rope pointing from A to O.#NEW_LINE##SPACE# #SPACE#
+3 .  A force in the direction of the girl's motion.#NEW_LINE##SPACE# #SPACE#
+4 .  A force pointing from O to A.#NEW_LINE##SPACE# #SPACE#
+
+Which of the above forces is (are) acting on the girl when she is at position A?</text>
+      <choices>
+        <choice id="A">(A)  1 only.</choice>
+        <choice id="B">(B)  1 and 2.</choice>
+        <choice id="C">(C)  1 and 3.</choice>
+        <choice id="D">(D)  1, 2, and 3.</choice>
+        <choice id="E">(E)  1, 3, and 4.</choice>
+      </choices>
+      <answer>b</answer>
+    </question>
+  </Context>
+  <Context cid="13">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="19">
+      <questionpic src="pics/famctxt.pr19.png" />
+      <text>19.  The positions of two joggers, Ann and Pam, are shown below. The joggers are shown at successive 0.20-second time intervals, and they are moving towards the right. Do the joggers ever have the same speed?#NEW_LINE#</text>
+	<choices>
+        <choice id="A">(A)  No.</choice>
+        <choice id="B">(B)  Yes, at instant 2.</choice>
+        <choice id="C">(C)  Yes, at instant 5.</choice>
+        <choice id="D">(D)  Yes, at instants 2 and 5.</choice>
+        <choice id="E">(E)  Yes, at some time during the interval 3 to 4.</choice>
+      </choices>
+      <answer>e</answer>
+    </question>
+  </Context>
+  <Context cid="14">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="20">
+      <questionpic src="pics/fcirv95.pr20.png" />
+      <text>20.  The positions of two blocks at successive 0.20-second time intervals are represented by the numbered squares in the figure below. The blocks are moving toward the right. #NEW_LINE#The accelerations of the blocks are related as follows:</text>
+      <choices>
+        <choice id="A">(A)  The acceleration of "a" is greater than the acceleration of " b".</choice>
+        <choice id="B">(B)  The acceleration of "a" equals the acceleration of "b". Both accelerations are greater than zero.</choice>
+        <choice id="C">(C)  The acceleration of "b" is greater than the acceleration of "a".</choice>
+        <choice id="D">(D)  The acceleration of "a" equals the acceleration of "b". Both accelerations are zero.</choice>
+        <choice id="E">(E)  Not enough information is given to answer the question.</choice>
+      </choices>
+      <answer>d</answer>
+    </question>
+  </Context>
+  <Context cid="15">
+    <contextpicture src="pics/fcirv95.pr21.CONTEXT-IMAGE.png" />
+    <contextdescription>USE THE STATEMENT AND FIGURE BELOW TO ANSWER THE NEXT FOUR QUESTIONS  (21  through  24).
+A rocket drifts sideways in outer space from point "a" to point "b" as shown below. The rocket is subject to no outside forces. Starting at position "b", the rocket's engine is turned on and produces a constant thrust (force on the rocket) at right angles to the line "ab". The constant thrust is maintained until the rocket reaches a point "c" in space.</contextdescription>
+    <question id="21">
+      <questionpic src="pics/fcirv95.pr21.png" />
+      <text>21.  Which of the paths below best represents the path of the rocket between points "b" and "c"?</text>
+      <choices>
+        <choice id="A">(A)</choice>
+        <choice id="B">(B)</choice>
+        <choice id="C">(C)</choice>
+        <choice id="D">(D)</choice>
+        <choice id="E">(E)</choice>
+      </choices>
+      <answer>e</answer>
+    </question>
+    <question id="22">
+      <questionpic src="" />
+      <text>22. As the rocket moves from position "b" to position "c" its speed is:</text>
+      <choices>
+        <choice id="A">(A)  constant.</choice>
+        <choice id="B">(B)  continuously increasing.</choice>
+        <choice id="C">(C)  continuously decreasing.</choice>
+        <choice id="D">(D)  increasing for a while and constant thereafter.</choice>
+        <choice id="E">(E)  constant for a while and decreasing thereafter.</choice>
+      </choices>
+      <answer>b</answer>
+    </question>
+    <question id="23">
+      <questionpic src="pics/fcirv95.pr23.png" />
+      <text>23.  At point "c" the rocket's engine is turned off and the thrust immediately drops to zero.
+Which of the paths below will the rocket follow beyond point "c"?</text>
+      <choices>
+        <choice id="A">(A)</choice>
+        <choice id="B">(B)</choice>
+        <choice id="C">(C)</choice>
+        <choice id="D">(D)</choice>
+        <choice id="E">(E)</choice>
+      </choices>
+      <answer>b</answer>
+    </question>
+    <question id="24">
+      <questionpic src="" />
+      <text>24.  Beyond position "c" the speed of the rocket is:</text>
+      <choices>
+        <choice id="A">(A)  constant.</choice>
+        <choice id="B">(B)  continuously increasing.</choice>
+        <choice id="C">(C)  continuously decreasing.</choice>
+        <choice id="D">(D)  increasing for a while and constant thereafter.</choice>
+        <choice id="E">(E)  constant for a while and decreasing thereafter.</choice>
+      </choices>
+      <answer>a</answer>
+    </question>
+  </Context>
+  <Context cid="16">
+    <contextpicture src="" />
+    <contextdescription> </contextdescription>
+    <question id="25">
+      <questionpic src="" />
+      <text>25.  A woman exerts a constant horizontal force on a couch. As a result, the couch moves across the smooth, hardwood, horizontal floor at a constant speed "vo". The constant horizontal force applied by the woman:</text>
+      <choices>
+        <choice id="A">(A)  has the same magnitude as the weight of the couch.</choice>
+        <choice id="B">(B)  is greater than the weight of the couch.</choice>
+        <choice id="C">(C)  has the same magnitude as the total force which resists the motion of the couch.</choice>
+        <choice id="D">(D)  is greater than the total force which resists the motion of the couch.</choice>
+        <choice id="E">(E)  is greater than either the weight of the couch or the total force which resists its motion.</choice>
+      </choices>
+      <answer>c</answer>
+    </question>
+    <question id="26">
+      <questionpic src="" />
+      <text>26.  If the woman in the previous question doubles the constant horizontal force that she exerts on the couch to push it on the same horizontal floor, the couch then moves:</text>
+      <choices>
+        <choice id="A">(A)  with a constant speed that is double the speed “vo” in the previous question.</choice>
+        <choice id="B">(B)  with a constant speed that is greater than the speed “vo” in the previous question, but not necessarily twice as great.</choice>
+        <choice id="C">(C)  for a while with a speed that is constant and greater than the speed “vo” in the previous question, then with a speed that increases thereafter.</choice>
+        <choice id="D">(D)  for a while with an increasing speed, then with a constant speed thereafter.</choice>
+        <choice id="E">(E)  with a continuously increasing speed.</choice>
+      </choices>
+      <answer>e</answer>
+    </question>
+    <question id="27">
+      <questionpic src="" />
+      <text>27.  If the woman in question 25 suddenly stops applying a horizontal force to the couch, then the couch will:</text>
+      <choices>
+        <choice id="A">(A)  immediately come to a stop.</choice>
+        <choice id="B">(B)  continue moving at a constant speed for a while and then slow to a stop.</choice>
+        <choice id="C">(C)  immediately start slowing to a stop.</choice>
+        <choice id="D">(D)  continue at a constant speed.</choice>
+        <choice id="E">(E)  increase its speed for a while and then start slowing to a stop.</choice>
+      </choices>
+      <answer>c</answer>
+    </question>
+  </Context>
+  <Context cid="17">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="28">
+      <questionpic src="pics/famctxt.pr28.png" />
+      <text>28.  Two figure skaters, Lisa who has a mass of 95 kg and Christine who has a mass of 77 kg, are standing on the ice with Lisa’s hands braced against Christine. Lisa suddenly pushes off of Christine, causing them both to move.
+During the push and while the skaters are still touching one another: </text>
+      <choices>
+        <choice id="A">(A)  neither skater exerts a force on the other.</choice>
+        <choice id="B">(B)  Lisa exerts a force on Christine, but Christine doesn't exert any force on Lisa.</choice>
+        <choice id="C">(C)  each skater exerts a force on the other, but Christine exerts the larger force.</choice>
+        <choice id="D">(D)  each skater exerts a force on the other, but Lisa exerts the larger force.</choice>
+        <choice id="E">(E)  each skater exerts the same amount of force on the other.</choice>
+      </choices>
+      <answer>e</answer>
+    </question>
+  </Context>
+  <Context cid="18">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="29">
+      <questionpic src="" />
+      <text>29.  An empty table is at rest on a floor. Consider the following forces:#NEW_LINE##SPACE# #SPACE#
+1 .  A downward force of gravity.#NEW_LINE##SPACE# #SPACE#
+2 .  An upward force exerted by the floor.#NEW_LINE##SPACE# #SPACE#
+3 .  A net downward force exerted by the air.#NEW_LINE##SPACE# #SPACE#
+Which of the forces is (are) acting on the table?</text>
+      <choices>
+        <choice id="A">(A)  1 only.</choice>
+        <choice id="B">(B)  1 and 2.</choice>
+        <choice id="C">(C)  2 and 3.</choice>
+        <choice id="D">(D)  1, 2, and 3.</choice>
+        <choice id="E">(E)  none of the forces. (Since the chair is at rest there are no forces acting upon it.)</choice>
+      </choices>
+      <answer>b</answer>
+    </question>
+  </Context>
+  <Context cid="19">
+    <contextpicture src="" />
+    <contextdescription></contextdescription>
+    <question id="30">
+      <questionpic src="" />
+      <text>30.  Despite a very strong wind, a tennis player manages to hit a tennis ball with her racquet so that the ball passes over the net and lands in her opponent's court.#NEW_LINE##SPACE# #SPACE#
+Consider the following forces:#NEW_LINE##SPACE# #SPACE#
+1. A downward force of gravity.#NEW_LINE##SPACE# #SPACE#
+2. A force by the "hit".#NEW_LINE##SPACE# #SPACE#
+3. A force exerted by the air.#NEW_LINE##SPACE# #SPACE#
+Which of the above forces is (are) acting on the tennis ball after it has left contact with the racquet and before it touches the ground?</text>
+      <choices>
+        <choice id="A">(A)  1 only.</choice>
+        <choice id="B">(B)  1 and 2.</choice>
+        <choice id="C">(C)  1 and 3.</choice>
+        <choice id="D">(D)  2 and 3.</choice>
+        <choice id="E">(E)  1, 2, and 3.</choice>
+      </choices>
+      <answer>c</answer>
+    </question>
+  </Context>
+</FCI>
